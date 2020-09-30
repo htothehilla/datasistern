@@ -1,6 +1,4 @@
-## Welcome to Data Sistern 
-
-[image](/logods.png)
+# Welcome to Data Sistern 
 
 A Monthly unlearning space for me to record what I am reading each month.
 Data Sistern, is about discovering data feminist approaches to data science and AI.
@@ -9,28 +7,28 @@ I was inspired by a reading group created at my workplace to explore more and sh
 
 So lets unlearn !
 
-### October reading ! 
+## October reading ! 
 
-# Book
+### Book
 Algorthims of Oppression by Safiya Umoja Noble 
 
-# Blogs
+### Blogs
 Death By Bias. How Algorithms Systemize Discriminatory Practices. by Alise Otilia Ramírez (she/her)
 [Link](https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1)
 
-# Videos
+### Videos
 Feminist AI and and the Women’s Center for Creative Work, Algorithms of Oppression Book Clubs sessions 
 [Link](https://www.crowdcast.io/e/algorithmsofopressionintr/register)
 
-# Guides 
+### Guides 
 Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace and DataKind 
 [Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
 
 
-# Previous reading and reviews 
+## Previous reading and reviews 
 I will add reviews of my main takeaways !
 
-## Data Feminism by Catherine D'Ignazio and Lauren Klein
+### Data Feminism by Catherine D'Ignazio and Lauren Klein
 The principles have inspired me so much; 
 1. Data feminism begins by analyzing how power operates in the world
 2. Data feminism commits to challenging unequal power structures and working toward justice
@@ -43,7 +41,7 @@ Organize against oppression
 [Qoute](https://journals.sagepub.com/doi/10.1177/2053951720942544)
 [Open access version of book](https://data-feminism.mitpress.mit.edu/)
 
-##Race after technology by Ruha Benjamin
+### Race after technology by Ruha Benjamin
 First introduction to critical race theory applied to technology. The examples within the book demonstrated how tech can preptuate a "new jim code", by enabling and perpetuating racial violence. 
 
 # New to the dataverse ? 
