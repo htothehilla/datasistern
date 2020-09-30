@@ -1,6 +1,6 @@
 ## Welcome to Data Sistern 
 
-![image](/datasistern/logods.png)
+![image](/logods.png)
 
 A Monthly unlearning space for me to record what I am reading each month.
 Data Sistern, is about discovering data feminist approaches to data science and AI.
@@ -11,7 +11,6 @@ So lets unlearn !
 
 ### October reading ! 
 
-```markdown
 # Book
 ## Algorthims of Oppression by Safiya Umoja Noble 
 
@@ -26,11 +25,9 @@ Feminist AI and and the Women’s Center for Creative Work, Algorithms of Oppres
 # Guides 
 Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace and DataKind 
 [Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
-```
+
 
 ### Previous reading and reviews 
-
-```markdown
 
 I will add reviews of my main takeaways !
 
@@ -51,10 +48,8 @@ Have inspired me so much.
 # Race after technology by Ruha Benjamin
 First introduction to critical race theory applied to technology. The examples within the book demonstrated how tech can preptuate a "new jim code", by enabling and perpetuating racial violence. 
 
-```
 # New to the dataverse ? 
 
-```markdown
 ## check out these guides and free courses ! 
 1. Sense about science, Data Science: A guide for society
 [Link](https://askforevidence.org/articles/data-science-a-guide-for-society)
@@ -62,4 +57,3 @@ First introduction to critical race theory applied to technology. The examples w
 [Link](https://course.elementsofai.com/)
 3. Open Data Institute's explainers 
 [Link](https://theodi.org/knowledge-opinion/explainers/)
-```
