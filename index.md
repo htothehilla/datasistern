@@ -1,6 +1,6 @@
 ## Welcome to Data Sistern 
 
-![image](/logods.png)
+[image](/logods.png)
 
 A Monthly unlearning space for me to record what I am reading each month.
 Data Sistern, is about discovering data feminist approaches to data science and AI.
@@ -27,12 +27,11 @@ Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace
 [Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
 
 
-### Previous reading and reviews 
-
+# Previous reading and reviews 
 I will add reviews of my main takeaways !
 
-# Data Feminism by Catherine D'Ignazio and Lauren Klein
-The principles taught within this book; 
+## Data Feminism by Catherine D'Ignazio and Lauren Klein
+The principles have inspired me so much; 
 1. Data feminism begins by analyzing how power operates in the world
 2. Data feminism commits to challenging unequal power structures and working toward justice
 3. Data feminism teaches us to value multiple forms of knowledge, including the knowledge that comes from people as living, feeling bodies in the world
@@ -42,10 +41,9 @@ The principles taught within this book;
 7. The work of data science, like all work in the world, is the work of many hands. Data feminism makes this labor visible so that it can be recognized and valued
 Organize against oppression
 [Qoute](https://journals.sagepub.com/doi/10.1177/2053951720942544)
-Have inspired me so much. 
 [Open access version of book](https://data-feminism.mitpress.mit.edu/)
 
-# Race after technology by Ruha Benjamin
+##Race after technology by Ruha Benjamin
 First introduction to critical race theory applied to technology. The examples within the book demonstrated how tech can preptuate a "new jim code", by enabling and perpetuating racial violence. 
 
 # New to the dataverse ? 
