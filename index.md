@@ -11,6 +11,7 @@ So lets unlearn !
 
 ### Book
 Algorthims of Oppression by Safiya Umoja Noble 
+[Check out this podcast interview on the book](https://open.spotify.com/episode/5okBVDH53wdr7TAwVuodPg?si=N8udFJ0MSRSOEiMbRODOHA)
 
 ### Blogs
 Death By Bias. How Algorithms Systemize Discriminatory Practices. by Alise Otilia Ramírez (she/her)
