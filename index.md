@@ -12,7 +12,7 @@ So lets unlearn !
 ### October reading ! 
 
 # Book
-## Algorthims of Oppression by Safiya Umoja Noble 
+Algorthims of Oppression by Safiya Umoja Noble 
 
 # Blogs
 Death By Bias. How Algorithms Systemize Discriminatory Practices. by Alise Otilia Ramírez (she/her)
@@ -43,7 +43,7 @@ The principles taught within this book;
 Organize against oppression
 [Qoute](https://journals.sagepub.com/doi/10.1177/2053951720942544)
 Have inspired me so much. 
-
+[Open access version of book](https://data-feminism.mitpress.mit.edu/)
 
 # Race after technology by Ruha Benjamin
 First introduction to critical race theory applied to technology. The examples within the book demonstrated how tech can preptuate a "new jim code", by enabling and perpetuating racial violence. 
