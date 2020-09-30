@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## Welcome to Data Sistern 
 
-You can use the [editor on GitHub](https://github.com/htothehilla/datasistern/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](/datasistern/logods.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Monthly unlearning space for me to record what I am reading each month.
+Data Sistern, is about discovering data feminist approaches to data science and AI.
 
-### Markdown
+I was inspired by a reading group created at my workplace to explore more and share with friends.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So lets unlearn !
+
+### October reading ! 
 
 ```markdown
-Syntax highlighted code block
+# Book
+## Algorthims of Oppression by Safiya Umoja Noble 
 
-# Header 1
-## Header 2
-### Header 3
+# Blogs
+Death By Bias. How Algorithms Systemize Discriminatory Practices. by Alise Otilia Ramírez (she/her)
+[Link](https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1)
 
-- Bulleted
-- List
+# Videos
+Feminist AI and and the Women’s Center for Creative Work, Algorithms of Oppression Book Clubs sessions 
+[Link](https://www.crowdcast.io/e/algorithmsofopressionintr/register)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Guides 
+Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace and DataKind 
+[Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Previous reading and reviews 
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/htothehilla/datasistern/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I will add reviews of my main takeaways !
 
-### Support or Contact
+# Data Feminism by Catherine D'Ignazio and Lauren Klein
+The principles taught within this book; 
+1. Data feminism begins by analyzing how power operates in the world
+2. Data feminism commits to challenging unequal power structures and working toward justice
+3. Data feminism teaches us to value multiple forms of knowledge, including the knowledge that comes from people as living, feeling bodies in the world
+4. Data feminism requires us to challenge the gender binary, along with other systems of counting and classification that perpetuate oppression
+5. Data feminism insists that the most complete knowledge comes from synthesizing multiple perspectives, with priority given to local, Indigenous, and experiential ways of knowing
+6. Data feminism asserts that data are not neutral or objective. They are the products of unequal social relations, and this context is essential for conducting accurate, ethical analysis
+7. The work of data science, like all work in the world, is the work of many hands. Data feminism makes this labor visible so that it can be recognized and valued
+Organize against oppression
+[Qoute](https://journals.sagepub.com/doi/10.1177/2053951720942544)
+Have inspired me so much. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Race after technology by Ruha Benjamin
+First introduction to critical race theory applied to technology. The examples within the book demonstrated how tech can preptuate a "new jim code", by enabling and perpetuating racial violence. 
+
+```
+# New to the dataverse ? 
+
+```markdown
+## check out these guides and free courses ! 
+1. Sense about science, Data Science: A guide for society
+[Link](https://askforevidence.org/articles/data-science-a-guide-for-society)
+2. Elements of AI 
+[Link](https://course.elementsofai.com/)
+3. Open Data Institute's explainers 
+[Link](https://theodi.org/knowledge-opinion/explainers/)
+```
