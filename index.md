@@ -13,9 +13,9 @@ So lets unlearn !
 ### Book
 
 Design Justice: Community-Led Practices to Build the Worlds We Need by 
-Sasha Costanza-Chock [Open Access version] (https://design-justice.pubpub.org/)
+Sasha Costanza-Chock [Open Access version](https://design-justice.pubpub.org/)
 
-If you want to know I am reading Design Jutice read this [article] (https://www.dezeen.com/2020/04/06/sasha-costanza-chock-design-justice/).
+If you want to know I am reading Design Jutice read this [article](https://www.dezeen.com/2020/04/06/sasha-costanza-chock-design-justice/).
 
 ### Essays and writings
 Series of Essays from Winners of ODI Writers’ Fund for Black History Month 2020
