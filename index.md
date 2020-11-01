@@ -7,6 +7,26 @@ I was inspired by a reading group created at my workplace to explore more and sh
 
 So lets unlearn !
 
+## November Reading !
+
+
+### Book
+
+Design Justice: Community-Led Practices to Build the Worlds We Need by 
+Sasha Costanza-Chock [Open Access version] (https://design-justice.pubpub.org/)
+
+If you want to know I am reading Design Jutice read this [article] (https://www.dezeen.com/2020/04/06/sasha-costanza-chock-design-justice/).
+
+### Essays and writings
+Series of Essays from Winners of ODI Writers’ Fund for Black History Month 2020
+The dividing line: how we represent race in data – Eleanor Shearer
+i Am A.I. and Thou – Anne L. Washington
+Facing Decisions – Danni Youziel
+[link](https://theodi.org/article/winners-odi-writers-fund-for-black-history-month-2020/)
+
+### Article 
+racial bias in natural language processing by Eleanor Shearer [link](https://www.oxfordinsights.com/racial-bias-in-natural-language-processing)
+
 ## October reading ! 
 
 ### Book
@@ -28,6 +48,9 @@ Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace
 
 ## Previous reading and reviews 
 I will add reviews of my main takeaways !
+
+### Algorthims of Oppression by Safiya Umoja Noble 
+Review to come soon. Really enjoyed reading this. 
 
 ### Data Feminism by Catherine D'Ignazio and Lauren Klein
 The principles have inspired me so much; 
