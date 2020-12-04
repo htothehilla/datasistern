@@ -14,3 +14,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # - about.md
 # - learning.md
 # - home.md
+# - read.md
