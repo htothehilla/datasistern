@@ -1,6 +1,23 @@
 
-## Previous reading and reviews 
-I will add reviews of my main takeaways !
+## Previous reading
+
+## October reading 
+
+### Book
+Algorthims of Oppression by Safiya Umoja Noble 
+[Check out this podcast interview on the book](https://open.spotify.com/episode/5okBVDH53wdr7TAwVuodPg?si=N8udFJ0MSRSOEiMbRODOHA)
+
+### Blogs
+Death By Bias. How Algorithms Systemize Discriminatory Practices. by Alise Otilia Ramírez (she/her)
+[Link](https://medium.com/swlh/death-by-bias-how-algorithms-systemize-discriminatory-practices-752c60d378f1)
+
+### Videos
+Feminist AI and and the Women’s Center for Creative Work, Algorithms of Oppression Book Clubs sessions 
+[Link](https://www.crowdcast.io/e/algorithmsofopressionintr/register)
+
+### Guides 
+Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace and DataKind 
+[Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
 
 ### Algorthims of Oppression by Safiya Umoja Noble 
 Review to come soon. Really enjoyed reading this. 
