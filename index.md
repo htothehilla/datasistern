@@ -1,6 +1,6 @@
 # Welcome 
 
-My name is Hillary, welcome to data sistren.
+My name is Hillary, welcome to Data sistren.
 
 Data Sistern, is about discovering intersectional feminist approaches to data in the digital age.
 
