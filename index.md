@@ -1,14 +1,14 @@
-# Welcome to Data Sistern 
+# Welcome 
 
-A Monthly unlearning space for me to record what I am reading each month.
-Data Sistern, is about discovering data feminist approaches to data science and AI.
+My name is Hillary, welcome to data sistren.
+
+Data Sistern, is about discovering intersectional feminist approaches to data in the digital age.
 
 I was inspired by a reading group created at my workplace to explore more and share with friends.
 
 So lets unlearn !
 
-## November Reading !
-
+## November and December Reading
 
 ### Book
 
