@@ -1,2 +1,14 @@
 theme: minima
 
+title: Data Sistren
+author: Hillary Juma
+email: hillary.juma@ons.gov.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Data Sistren a newsletter reading list of intersectional feminist approaches to data in the digital age. 
+# social links
+twitter_username: hillaryjuma_ # DO NOT include the @ character, or else the build will fail!
+github_username:  htothehilla # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+
