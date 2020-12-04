@@ -1,7 +1,7 @@
 
 ## Previous reading
 
-## October reading 
+## October 2020
 
 ### Book
 Algorthims of Oppression by Safiya Umoja Noble 
