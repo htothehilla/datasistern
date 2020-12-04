@@ -10,8 +10,8 @@ github_username:  htothehilla # DO NOT include the @ character, or else the buil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-#header_pages:
-# - about.md
-# - learning.md
-# - home.md
-# - read.md
+header_pages:
+- home.md
+- reading.md
+- read.md
+- learning.md
