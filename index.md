@@ -8,8 +8,7 @@
 layout: home
 ---
 
-Making changes to layout
-
+Apologies for appreances, I am currently making changes to the layout and theme of my github page, but i have made the resources avaialable.
 
 # Welcome 
 
@@ -17,6 +16,8 @@ My name is Hillary, welcome to Data sistren.
 
 Data Sistern, is about discovering intersectional feminist approaches to data in the digital age.
 
-I was inspired by a reading group created at my workplace to explore more and share with friends.
+I am documenting what I am [reading](https://htothehilla.github.io/datasistern/reading.html) and what I have [read](https://htothehilla.github.io/datasistern/read.html)on this github page. You are welcome to join along. 
 
-So lets unlearn !
+I have also included some introductionary learning [resources](https://htothehilla.github.io/datasistern/learning.html) that will help if you are new data, data science and AI. 
+
+So lets discover. 
