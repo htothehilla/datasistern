@@ -4,15 +4,14 @@
 
 ## Guides
 
-1. Sense about science, Data Science: A guide for society
+1. Sense about science, Data Science: A guide for society:
 
-As short user firendly guide explaining the concept of data science
-[Link](https://askforevidence.org/articles/data-science-a-guide-for-society)
+As short user friendly [guide](https://askforevidence.org/articles/data-science-a-guide-for-society) explaining the concept of data science
 
-3. Open Data Institute's explainers 
-[Link](https://theodi.org/knowledge-opinion/explainers/)
+3. Open Data Institute's explainer [blogs](https://theodi.org/knowledge-opinion/explainers/)
 
-4. The Dstl Biscuit Book
+4. The Dstl Biscuit Book: 
+
 An information [guide](https://www.gov.uk/government/publications/the-dstl-biscuit-book) on Artificial Intelligence (AI), Data Science and Machine Learning
 
 ## Courses
