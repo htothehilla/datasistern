@@ -21,3 +21,4 @@ I am documenting what I am [reading](https://htothehilla.github.io/datasistern/r
 I have also included some introductionary learning [resources](https://htothehilla.github.io/datasistern/learning.html) that will help if you are new data, data science and AI. 
 
 So lets discover. 
+
