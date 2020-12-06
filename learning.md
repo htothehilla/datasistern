@@ -14,7 +14,7 @@ A course developed by University of Helsinki, the learning is really gamifed cov
 An information guide on Artificial Intelligence (AI), Data Science and Machine Learning
 [Link](https://www.gov.uk/government/publications/the-dstl-biscuit-book)
 5. Women who Code - Data Science Series 
-[Link] (https://www.youtube.com/watch?v=7E_XpmM0Tw8&list=PLVcEZG2JPVhcOGRWbtmocId5_TBNi-ZG2&ab_channel=WomenWhoCode)
+[Link](https://www.youtube.com/watch?v=7E_XpmM0Tw8&list=PLVcEZG2JPVhcOGRWbtmocId5_TBNi-ZG2&ab_channel=WomenWhoCode)
 
 ## what does a data scientist role look like ?
 https://www.gov.uk/guidance/data-scientist
