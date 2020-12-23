@@ -19,7 +19,12 @@ An information [guide](https://www.gov.uk/government/publications/the-dstl-biscu
 
 2. Women who Code - Data Science [Youtube Series](https://www.youtube.com/watch?v=7E_XpmM0Tw8&list=PLVcEZG2JPVhcOGRWbtmocId5_TBNi-ZG2&ab_channel=WomenWhoCode)
 
+3. [Videos from the Conference on Fairness, Accountability, and Transparency (FAT*)](https://www.youtube.com/channel/UCs16j6ot-CYq-ZqYpO-vqMg/videos)
+
+
 ### Recommended from network and Data Sistren session on clubhouse
 
-1. Critical Race & Digital Studies [Syllabus](https://askforevidence.org/articles/data-science-a-guide-for-society) suggested by Dr. Brooklyne Gipson
+1. Critical Race & Digital Studies [Syllabus](https://criticalracedigitalstudies.com/syllabus/) suggested by Dr. Brooklyne Gipson
 2. Microsoft inclusive design [sprint](https://www.microsoft.com/design/inclusive/) suggested by Kim
+
+
