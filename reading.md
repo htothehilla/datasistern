@@ -15,6 +15,8 @@ Human Rights in the Age of Platforms by Rikke Frank Jørgensen [Open Access](htt
 [Counting the Countless: Why data science is a profound threat for queer people, Keyes, Os. 2019 ](https://reallifemag.com/counting-the-countless/)
 Taylor, Linnet. 2017. ‘What Is Data Justice: The Case for Connecting Digital Rights and Freedoms Globally’. Big Data & Society 4 (2): 1–14.Found via Data Kind Book Club.
 
+Bad Inventions: The Four Myths of Healthy Tech by Amanda Lenhart and Kellie Owens on [Data and Society](https://datasociety.net/library/good-intentions-bad-inventions/)
+
 ### Events
 [Workshop: Feminist Data Set by Blackwood Gallery, Sat, January 23, 2021, 4:00 PM – 7:00 PM GMT](https://www.eventbrite.co.uk/e/workshop-feminist-data-set-tickets-133011636385?aff=erelexpmlt&keep_tld=1)
 
