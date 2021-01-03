@@ -1,7 +1,7 @@
 
 ## Previous reading
 
-## October 2020
+## 2020
 
 ### Book
 Algorthims of Oppression by Safiya Umoja Noble 
@@ -18,6 +18,16 @@ Feminist AI and and the Women’s Center for Creative Work, Algorithms of Oppres
 ### Guides 
 Examining the Black Box: Tools for Assessing Algorithmic Systems by Ada Lovelace and DataKind 
 [Link](https://www.adalovelaceinstitute.org/examining-the-black-box-tools-for-assessing-algorithmic-systems/)
+
+### Essays and writings
+* Series of Essays from Winners of ODI Writers’ Fund for Black History Month 2020
+* The dividing line: how we represent race in data – Eleanor Shearer
+* i Am A.I. and Thou – Anne L. Washington
+* Facing Decisions – Danni Youziel
+[link](https://theodi.org/article/winners-odi-writers-fund-for-black-history-month-2020/)
+
+### Article 
+racial bias in natural language processing by Eleanor Shearer [link](https://www.oxfordinsights.com/racial-bias-in-natural-language-processing)
 
 ### Algorthims of Oppression by Safiya Umoja Noble 
 Review to come soon. Really enjoyed reading this. 
