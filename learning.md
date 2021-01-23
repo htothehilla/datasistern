@@ -14,6 +14,8 @@ As short user friendly [guide](https://askforevidence.org/articles/data-science-
 
 An information [guide](https://www.gov.uk/government/publications/the-dstl-biscuit-book) on Artificial Intelligence (AI), Data Science and Machine Learning
 
+5. [A People's Guide to AI](https://store.alliedmedia.org/products/a-peoples-guide-to-ai) by Mimi Onuoha and Diana Nucera a.k.a. Mother Cyborg, technically not free but its cheaper than Nandos and you get to support the authors.
+
 ## Courses
 1. Elements of AI A [course](https://course.elementsofai.com/) developed by University of Helsinki, the learning is really gamifed covering an intro AI and budiling AI.
 
