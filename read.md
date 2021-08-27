@@ -1,5 +1,20 @@
 
-## Previous reading
+# Previous reading
+
+## Q1 - 2021
+
+### Books and long reads
+
+Design Justice: Community-Led Practices to Build the Worlds We Need by Sasha Costanza-Chock [Open Access version](https://design-justice.pubpub.org/)
+If you want to know I am reading Design Jutice read this [article](https://www.dezeen.com/2020/04/06/sasha-costanza-chock-design-justice/).
+
+[Consequence Scanning An Agile event for Responsible Innovators by Doteveryone](https://doteveryone.org.uk/wp-content/uploads/2019/04/Consequence-Scanning_Agile-Event-Manual_TechTransformed_Doteveryone.pdf), suggested by Alex at Data Sistren Session 
+
+### Events
+[Workshop: Feminist Data Set by Blackwood Gallery, Sat, January 23, 2021, 4:00 PM – 7:00 PM GMT](https://www.eventbrite.co.uk/e/workshop-feminist-data-set-tickets-133011636385?aff=erelexpmlt&keep_tld=1)
+
+### Films 
+[Coded Bias](https://www.codedbias.com/virtual-cinema) explores the fallout of MIT Media Lab researcher Joy Buolamwini’s discovery that facial recognition does not see dark-skinned faces accurately, and her journey to push for the first-ever legislation in the U.S. to govern against bias in the algorithms that impact us all.
 
 ## October 2020
 
